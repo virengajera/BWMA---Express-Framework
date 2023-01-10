@@ -1,0 +1,63 @@
+[{
+    "username": "user1",
+    "fromPlace": "frankfurt",
+    "toPlace": "hs fulda",
+    "rideDate": "11/01/2023",
+    "rideTime": "10:00",
+    "availableSeats":3
+  },{
+    "username": "user2",
+    "fromPlace": "frankfurt",
+    "toPlace": "hs fulda",
+    "rideDate": "11/01/2023",
+    "rideTime": "13:00",
+      "availableSeats":2
+  },{
+    "username": "user3",
+    "fromPlace": "frankfurt",
+    "toPlace": "hs fulda",
+    "rideDate": "11/01/2023",
+    "rideTime": "18:00",
+    "availableSeats":0
+  },{
+    "username": "user4",
+    "fromPlace": "hs fulda",
+    "toPlace": "frankfurt",
+    "rideDate": "11/01/2023",
+    "rideTime": "12:00",
+    "availableSeats":2
+  },
+  {
+    "username": "user5",
+    "fromPlace": "hs fulda",
+    "toPlace": "frankfurt",
+    "rideDate": "11/01/2023",
+    "rideTime": "15:00",
+      "availableSeats":0
+  },
+  {
+    "username": "user1",
+    "fromPlace": "hs fulda",
+    "toPlace": "kassel",
+    "rideDate": "12/01/2023",
+    "rideTime": "9:00",
+      "availableSeats":2
+  },
+  {
+    "username": "user2",
+    "fromPlace": "hs fulda",
+    "toPlace": "kassel",
+    "rideDate": "12/01/2023",
+    "rideTime": "13:00",
+      "availableSeats":1
+  },
+  {
+    "username": "user3",
+    "fromPlace": "hs fulda",
+    "toPlace": "kassel",
+    "rideDate": "12/01/2023",
+    "rideTime": "13:00",
+    "availableSeats":0
+  }
+]
+  
