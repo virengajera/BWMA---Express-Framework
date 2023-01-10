@@ -10,10 +10,12 @@ We have created APIs for the following features:
 
 
 ### Requirements for this project
-    - MongoDB to be installed.
-    - Node to be installed.
+
+    - [MongoDB](https://www.mongodb.com/try/download/shell) to be installed.
+    - [Node](https://nodejs.org/en/download/) to be installed.
 
 ### Setup Project
+
     - Run `npm install` command to install all dependencies.
     - Create a database name **bwma** in your local machine.
     - Change port and address in [db.js](./db.js) according to your local configuration.
